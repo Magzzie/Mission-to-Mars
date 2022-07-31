@@ -13,14 +13,17 @@ Robin, has requested our help to gather data about the mission to Mars from all 
 
 Instead, she has requested we build a web application: (ROBIN’S MARS DATABASE: Updates | Current Martian Weather | Water Info | Rover Locations), that will scrape new data every time she tells it to, with a click of a button. 
 
+Futhermore, the client wishes to to add more polish to the app especially since she has been admiring images of Mars’s hemispheres online and realized that the site is scraping-friendly. She would like us to adjust the current stage-1 web app to include all four of the hemisphere images. 
 
 
 ### Purpose
-
+#### Stage 1 Analysis 
 We intend to automate a web browser to visit different websites to extract data about the Mission to Mars. <br>
 Then we will store it in a NoSQL database, and render the data in a web application created with Flask. <br>
 The completed work will be displayed in your portfolio, which we will also create. <br>
 
+#### Stage 2 Analysis 
+We intend to use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images.
 
 ## Objectives
 
@@ -49,6 +52,8 @@ Instead of using a SQL database with its structural rules, we would use a NoSQL 
 
 
 ## Results
+
+1. Scrape Full-Resolution Mars Hemisphere Images and Titles:
 
 
 
