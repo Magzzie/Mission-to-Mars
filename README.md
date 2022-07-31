@@ -53,6 +53,8 @@ Instead of using a SQL database with its structural rules, we would use a NoSQL 
 
 ## Results
 
+1. Scrape Full-Resolution Mars Hemisphere Images and Titles:
+
 
 
 ## Conclusions
