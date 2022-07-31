@@ -30,10 +30,11 @@ The completed work will be displayed in your portfolio, which we will also creat
 
 
 ## Resources
-- Data Source:
-- Software: 
-- Libraries and Packages: 
-- Online Tools: 
+- Data sources:
+- Software: MongoDB (1.31.2), MongoDB shell version v5.0.7, MongoDB server version: 5.0.7
+- Libraries & Packeges: Splinter (0.17.0), BeautifulSoup (4.10.0), Web-Driver Manager (3.5.4), Chrome Browser (101.0.4951.41), <br>
+PyMongo (4.1.1), Flask (1.1.2), Flask-PyMongo (2.3.0), html5lib (1.1), lxml (4.8.0). <br>
+- Online Tools:
 
 
 ## Methods
@@ -42,6 +43,10 @@ Our analysis plan entailed the following:
 - Once we had all the data, we needed a place to store it, such as a nonstructural database. <br>
 Instead of using a SQL database with its structural rules, we would use a NoSQL database, MongoDB. Because the data pulled from the internet comes in many different forms; it’s not always in the neat and tidy tables that SQL requires. <br>
 - Mongo was designed as a document-based database which suits ou needs a bit better since we would be downloading tables, but also paragraphs and images.<br>
+- To put it all together in a web application of her own, we would need to use Flask. <br>
+- Flask is a web framework that allows her to create a web application using Python and then customize it with HTML and CSS. <br>
+- Our client had also requested we create a portfolio to showcase the projecta as she plans to add a link to her portfolio on her resume, so we would use Bootstrap to give it extra polish.<br>
+
 
 ## Results
 
