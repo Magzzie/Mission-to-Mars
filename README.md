@@ -69,32 +69,34 @@ Here is the first stage of the Mission-to-Mars webpage: <br>
     |![Mars Hemispheres Retrieval URLs](./Images/hemishpheres_4_full_res_urls_live.png)|
     |-|
 
+2. Update the Web App with Mars’s Hemisphere Images and Titles: <br>
+
+    - We were successful in establishing a connection between scraping scripts and the wepage, evident by the retrieval and display of the four high-resolution images on the Mission to Mars webpage when **Scrape New Data** is clicked. <br>
+    
+    
+    |![Successful Retrieval & Display of Mars Hemispheres on Click](./Images/successful_scraping_display_hemispheres.png)|
+    |-|
+    
+3. Add Bootstrap 3 Components:
+
+    - We changed the font style for **titles** and **captions** to bold.
+    - Next, we reordered the Featured Mars Images and the Mars Fact table.
+    - Futhermore, we updated the hemisphere images to display as thumbnails when hovered over with a thin blue shadow.  <br>
+    
+    |![Styling HTML](./Images/styled_bold_thumbnails_col8.png)|
+    |-|
+    
+    - And we made the page mobile-responsive as demonstrated in the following image. <br>
+    
+    |![Mobile-responsive webpage](./Images/mobile_responsive.png)|
+    |-|
+    
+    
 
 ## Conclusions
 
-
+[*Check **Mission To Mars***](https://github.com/Magzzie/Mission-to-Mars/blob/main/index.html)
 
 
 --- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
