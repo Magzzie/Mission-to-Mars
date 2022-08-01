@@ -53,12 +53,22 @@ Instead of using a SQL database with its structural rules, we would use a NoSQL 
 
 ## Results
 
-Here is the first stage of the Mission-to-Mars webpage: 
+Here is the first stage of the Mission-to-Mars webpage: <br>
 
   |![First Stage Mars Mission Webpage.](./Images/scraping_app_output.png)|
   |-|
 
 1. Scrape Full-Resolution Mars Hemisphere Images and Titles <br>
+   - We successfully retrieved four full-resolution images of Mars Hemispheres <br>
+    
+    |![Mars Hemispheres Retrieval](./Images/hemishpheres_4_full_res.png)|
+    |-|
+    
+    - We successfully retrieved the images urls and titles:  <br>
+    
+    |![Mars Hemispheres Retrieval URLs](./Images/hemishpheres_4_full_res_urls_live.png)|
+    |-|
+
 
 ## Conclusions
 
