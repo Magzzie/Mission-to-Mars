@@ -95,29 +95,8 @@ Here is the first stage of the Mission-to-Mars webpage: <br>
 
 ## Conclusions
 
-[*Check **Mission To Mars***]()
+[*Check **Mission To Mars***](https://github.com/Magzzie/Mission-to-Mars/blob/main/index.html)
 
 
 --- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
