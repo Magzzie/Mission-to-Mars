@@ -86,6 +86,11 @@ Here is the first stage of the Mission-to-Mars webpage: <br>
     |![Styling HTML](./Images/styled_bold_thumbnails_col8.png)|
     |-|
     
+    - And we made the page mobile-responsive as demonstrated in the following image. <br>
+    
+    |![Mobile-responsive webpage](./Images/mobile_responsive.png)|
+    |-|
+    
     
 
 ## Conclusions
