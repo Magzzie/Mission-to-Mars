@@ -26,11 +26,9 @@ The completed work will be displayed in your portfolio, which we will also creat
 We intend to use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images.
 
 ## Objectives
-
 1. Scrape Full-Resolution Mars Hemisphere Images and Titles
 2. Update the Web App with Mars Hemisphere Images and Titles
 3. Add Bootstrap 3 Components
-
 
 ## Resources
 - Data sources:
@@ -50,7 +48,6 @@ Instead of using a SQL database with its structural rules, we would use a NoSQL 
 - Flask is a web framework that allows her to create a web application using Python and then customize it with HTML and CSS. <br>
 - Our client had also requested we create a portfolio to showcase the projecta as she plans to add a link to her portfolio on her resume, so we would use Bootstrap to give it extra polish.<br>
 
-
 ## Results
 
 Here is the first stage of the Mission-to-Mars webpage: <br>
@@ -61,21 +58,21 @@ Here is the first stage of the Mission-to-Mars webpage: <br>
 1. Scrape Full-Resolution Mars Hemisphere Images and Titles <br>
    - We successfully retrieved four full-resolution images of Mars Hemispheres <br>
     
-    |![Mars Hemispheres Retrieval](./Images/hemishpheres_4_full_res.png)|
-    |-|
+      |![Mars Hemispheres Retrieval](./Images/hemishpheres_4_full_res.png)|
+      |-|
     
     - We successfully retrieved the images urls and titles:  <br>
     
-    |![Mars Hemispheres Retrieval URLs](./Images/hemishpheres_4_full_res_urls_live.png)|
-    |-|
+      |![Mars Hemispheres Retrieval URLs](./Images/hemishpheres_4_full_res_urls_live.png)|
+      |-|
 
 2. Update the Web App with Mars’s Hemisphere Images and Titles: <br>
 
     - We were successful in establishing a connection between scraping scripts and the wepage, evident by the retrieval and display of the four high-resolution images on the Mission to Mars webpage when **Scrape New Data** is clicked. <br>
     
     
-    |![Successful Retrieval & Display of Mars Hemispheres on Click](./Images/successful_scraping_display_hemispheres.png)|
-    |-|
+      |![Successful Retrieval & Display of Mars Hemispheres on Click](./Images/successful_scraping_display_hemispheres.png)|
+      |-|
     
 3. Add Bootstrap 3 Components:
 
@@ -83,14 +80,13 @@ Here is the first stage of the Mission-to-Mars webpage: <br>
     - Next, we reordered the Featured Mars Images and the Mars Fact table.
     - Futhermore, we updated the hemisphere images to display as thumbnails when hovered over with a thin blue shadow.  <br>
     
-    |![Styling HTML](./Images/styled_bold_thumbnails_col8.png)|
-    |-|
+      |![Styling HTML](./Images/styled_bold_thumbnails_col8.png)|
+      |-|
     
     - And we made the page mobile-responsive as demonstrated in the following image. <br>
     
-    |![Mobile-responsive webpage](./Images/mobile_responsive.png)|
-    |-|
-    
+      |![Mobile-responsive webpage](./Images/mobile_responsive.png)|
+      |-|
     
 
 ## Conclusions
