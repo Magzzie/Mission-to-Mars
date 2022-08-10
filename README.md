@@ -33,9 +33,8 @@ We intend to use BeautifulSoup and Splinter to scrape full-resolution images of 
 ## Resources
 - Data sources:
 - Software: MongoDB (1.31.2), MongoDB shell version v5.0.7, MongoDB server version: 5.0.7
-- Libraries & Packeges: Splinter (0.17.0), BeautifulSoup (4.10.0), Web-Driver Manager (3.5.4), Chrome Browser (101.0.4951.41), <br>
-PyMongo (4.1.1), Flask (1.1.2), Flask-PyMongo (2.3.0), html5lib (1.1), lxml (4.8.0). <br>
-- Online Tools:
+- Libraries & Packeges: Splinter (0.17.0), BeautifulSoup (4.10.0), Web-Driver Manager (3.5.4), Chrome Browser (101.0.4951.41), PyMongo (4.1.1), Flask (1.1.2), Flask-PyMongo (2.3.0), html5lib (1.1), lxml (4.8.0). <br>
+- Online Tools: [Mission to Mars GitHub Repository] (https://github.com/Magzzie/Mission_to_Mars)
 
 
 ## Methods
