@@ -1,4 +1,4 @@
-# Mission-to-Mars
+# Mission_to_Mars
 Building a web application that enables up-to-date display of News articles and images of Mars via Web Scraping with HTML / CSS. 
 
 ## Background
